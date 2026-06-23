@@ -1,72 +1,72 @@
-# 03 Work and Creative Rhythm
+# 03 把创作当工作与建立节奏
 
-## Core Idea
+## 核心意思
 
-Creative work is still work. It trades time, skill, trust, and attention with a market through a team, company, platform, or audience. The professional creator respects inspiration but does not wait for it.
+创作依然是一份工作。它用时间、能力、信任和注意力与市场交换价值。专业创作者尊重灵感，但不等待灵感。
 
-## Frameworks Introduced
+## 关键框架
 
-### This Is a Job
+### 这是一份工作
 
-- **When to use**: A creative team acts like an interest group, or a creator resists standards.
-- **How**: Clarify who is paying or trusting whom, what outcome is owed, and what professional behavior is required.
-- **Rule**: If money, trust, or stage time is accepted, the work must be treated as work.
+- **什么时候用**：创作者或团队像兴趣小组一样工作，不愿接受专业标准时。
+- **怎么做**：明确谁给了钱、信任、机会或注意力，最终欠对方什么结果。
+- **规则**：只要接受了钱、信任或舞台，就要把它当工作。
 
-### Transaction Cost Lens
+### 交易成本视角
 
-A company or team exists because working alone with the market is costly. When the organization reduces market friction, it is useful; when internal friction exceeds market friction, people rationally leave.
+团队、公司、平台存在的价值，是帮个人降低直接面对市场的成本。
 
-Use this lens to separate:
+用这个视角区分三类问题：
 
-- market difficulty that must be faced;
-- internal process problems that can be improved;
-- personal fit problems that may require leaving.
+- 市场本身残酷，只能面对；
+- 团队流程低效，可以改；
+- 个人和环境不匹配，可能需要离开。
 
-### Life Feeds Work, Rhythm Saves Work
+### 生活提供养分，节奏保护创作
 
-Creative work draws from everything, but "having life" is not a substitute for rhythm.
+创作会调用生活，但“有生活”不能替代工作节奏。
 
-- Observe life.
-- Enter life fully.
-- Return to a work cadence.
-- Publish, perform, or test in real conditions.
+- 观察生活。
+- 进入生活。
+- 回到创作节奏。
+- 在真实环境里发布、演出或测试。
 
-### Practice Through Real Games
+### 以赛代练
 
-"以赛代练" means using real tasks as training. Client work, open mics, livestreams, deadlines, business scripts, and program production all build muscles if treated as deliberate practice.
+真实任务就是训练场。客户稿、开放麦、直播、截止日期、商务脚本、节目生产，只要认真对待，都能长能力。
 
-## Key Concepts
+## 关键概念
 
-- **工作本质**: A trade between personal ability and market value.
-- **交易成本**: The effort required to reach, persuade, coordinate with, or sell to the market.
-- **创作节奏**: The repeatable cadence that keeps output alive.
-- **看与观察**: Passive watching is not the same as professional observation.
-- **战场/战友/敌人**: Real work context that gives feedback and pressure.
+- **工作本质**：用个人能力和时间与市场交换价值。
+- **交易成本**：触达市场、说服市场、协调市场所消耗的成本。
+- **创作节奏**：让输出持续发生的重复机制。
+- **看与观察**：被动观看不是专业观察。
+- **战场 / 战友 / 敌人**：真实工作环境提供压力和反馈。
 
-## Mental Models
+## 心智模型
 
-- Use **"job first"** when a creative person wants exceptions without results.
-- Use **"market vs company friction"** to diagnose workplace complaints.
-- Use **"observe then enjoy"**: creators need both analytical observation and full immersion.
-- Use **"real task as gym"**: if a task pays or publishes, it can train ability.
+- 用 **先承认这是工作** 处理“我只是表达自己”的逃避。
+- 用 **市场摩擦 vs 公司摩擦** 判断抱怨来自哪里。
+- 用 **观察与沉浸切换**：创作者既要分析，也要进入生活。
+- 用 **真实任务当健身房**：能发布、能交付、能收费的任务都能训练能力。
 
-## Anti-patterns
+## 反模式
 
-- **Waiting for life before creating**: Treating lack of travel, rest, or study as the reason output stopped.
-- **Creative privilege**: Believing artistic identity excuses lateness, bad collaboration, or contempt for clients.
-- **Leaving the field too early**: Detaching from teammates, deadlines, and audience feedback.
-- **Confusing ease with wrongness**: If a task feels easy, upgrade it or add challenge before despising it.
+- **等生活再创作**：把没旅行、没休息、没学习当作停更理由。
+- **创作特权**：用艺术身份为迟到、坏协作、看不起客户找理由。
+- **过早离开现场**：离开同伴、截止日期和观众反馈。
+- **把容易等同于不正确**：觉得事情太顺就轻视它，而不是升级任务。
 
-## Key Takeaways
+## 可执行结论
 
-1. Creative people still owe professional behavior.
-2. Separate market hardship from fixable team dysfunction.
-3. Life is material, but rhythm turns material into work.
-4. Practice must meet reality; untested learning is incomplete.
-5. Deadlines and assignments can be creative tools, not only constraints.
+1. 创作者也要遵守专业标准。
+2. 分清市场难度、团队问题和个人适配问题。
+3. 生活是材料，节奏把材料变成作品。
+4. 学习必须进入真实任务，否则还不是能力。
+5. 截止日期和命题不是创作敌人，也可以是工具。
 
-## Connects To
+## 关联章节
 
-- **Ch 04**: Rhythm becomes daily writing and revision.
-- **Ch 07**: Meetings and pitch are the team version of professionalism.
-- **Ch 08**: Career choices depend on what kind of work still grows the person.
+- **第 04 章**：节奏会落到日常写作和修改里。
+- **第 07 章**：会议和 pitch 是团队层面的专业性。
+- **第 08 章**：职业选择要看什么工作还能让人继续成长。

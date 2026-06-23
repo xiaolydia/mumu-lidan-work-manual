@@ -1,62 +1,62 @@
-# Cheatsheet
+# 快速检查清单
 
-## Content Direction
+## 内容方向
 
-- What do I genuinely want to share?
-- Who is this useful for?
-- Am I creating from interest, service, and expression, or from anxiety?
-- Would this direction still be livable in five years?
-- Have I cared for core users before chasing new ones?
+- 我真正想分享什么？
+- 这对谁有用？
+- 我是在表达兴趣和服务别人，还是在焦虑起号？
+- 这个方向做五年还值得吗？
+- 我有没有先服务已经信任我的人？
 
-## Drafting Spoken Content
+## 口播/脚本
 
-- Write the exact words.
-- Mark the scene behind the words.
-- Delete filler.
-- Use dialogue/action instead of explanation.
-- Build from story and emotion into point of view.
-- Practice aloud and revise after hearing it.
+- 写的是能真正说出口的逐字稿吗？
+- 每一段背后有没有具体情境？
+- 废话删掉了吗？
+- 能用动作/对话/画面替代解释吗？
+- 是先给故事和情绪，再给观点吗？
+- 有没有朗读并再次修改？
 
-## Performance
+## 表演/镜头
 
-- Restore the situation; do not recite text.
-- Let gaze follow attention.
-- Use emotion to connect before reasoning.
-- Fail according to the plan so the failure teaches you.
-- Do not beg the audience; become stronger and let the right audience find you.
+- 我是在还原情境，还是在念稿？
+- 眼神跟着注意力走了吗？
+- 情绪是否先于道理进入？
+- 失败后能复盘到具体原因吗？
+- 我是在服务观众，还是在求观众认可？
 
-## Five-Minute Piece
+## 五分钟短作品
 
-| Check | Question |
+| 检查项 | 问题 |
 |---|---|
-| Topic | Is there one clear subject? |
-| Structure | Does it have beginning, development, turn, and landing? |
-| Growth | Does the speaker change, recognize, or reveal something? |
-| Language | Is the wording fresh and speakable? |
-| Value | What view of life does the story carry? |
+| 主题 | 是否只有一个清晰主题？ |
+| 结构 | 有没有开头、发展、转折和落点？ |
+| 成长 | 讲述者是否发生了理解、变化或暴露？ |
+| 语言 | 是否口语、鲜活、可说？ |
+| 价值观 | 这个故事在表达什么看法？ |
 
-## Creative Meeting
+## 创意会议
 
-- Bring a draft.
-- State the goal.
-- Keep pulling the room back to the target.
-- Reject with a better idea.
-- Owner decides.
-- Leave to revise when that is the best use of time.
+- 会前有没有稿子？
+- 本次会议目标是什么？
+- 有没有不断把话题拉回目标？
+- 否定别人时有没有给更好的方案？
+- 负责人是谁？
+- 会后每个人要做什么？
 
-## Pitch / Pre-Interview
+## Pitch / 前采
 
-- Prepare more than one option.
-- Ask "what happened" before "why".
-- Give choices, not a yes/no cliff.
-- Catch usable lines in the room.
-- Confirm what can be used.
-- Stay professional after collaboration ends.
+- 是否准备了多个选择？
+- 是否先问事实、行为和场景？
+- 是否避免把对方逼到是/否题？
+- 是否现场抓到了可用表达？
+- 是否确认了哪些内容可以使用？
+- 合作结束后是否保护对方和自己的专业信用？
 
-## Career
+## 职业和长期状态
 
-- Is this difficult and correct?
-- Can I solve it, accept it, or should I leave?
-- What did this project train in me?
-- Which adjacent role should I understand to do my role better?
-- Is my current emotion the first task to handle?
+- 这是不是难而正确的事？
+- 这个问题能解决、该接受，还是该离开？
+- 这个项目训练了我什么？
+- 我还需要理解哪个相邻岗位？
+- 现在最该处理的是任务，还是情绪？

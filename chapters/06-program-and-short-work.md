@@ -1,75 +1,75 @@
-# 06 Program and Short Work
+# 06 节目意识与短作品结构
 
-## Core Idea
+## 核心意思
 
-A short comic work or content segment must be more than good fragments. It needs a clear topic, structure, and visible change. At the program level, every department must serve the finished show rather than defending its own habit.
+短内容不能只是几个好笑片段或好观点堆在一起。它需要清晰主题、结构和可见变化。节目层面则要让所有岗位服务最终作品，而不是守着各自的习惯。
 
-## Frameworks Introduced
+## 关键框架
 
-### Program First
+### 节目第一
 
-- **When to use**: Conflicts between writers, directors, performers, editors, platform needs, or sponsor needs.
-- **How**: Ask what makes the final program better. Then let that answer overrule departmental comfort.
-- **Rule**: Strong principles are useful only if they help the final work.
+- **什么时候用**：编剧、导演、演员、剪辑、平台、赞助方之间发生冲突时。
+- **怎么做**：问什么选择能让最终节目更好，再让这个答案压过部门舒适区。
+- **规则**：原则有用，是因为它服务最终作品。
 
-### Show Curve vs Program Curve
+### 秀曲线 vs 节目曲线
 
-The book distinguishes tightly scripted "show" thinking from more open program thinking.
+书里区分了强文本控制的“秀”和更开放的“节目”。
 
-- **Show curve**: Text may be strongest before production; execution risks reducing it.
-- **Program curve**: Good design, pressure, conflict, and editing may make the work rise during production.
+- **秀曲线**：文本阶段可能是最高点，执行和播出会折损。
+- **节目曲线**：设计、压力、竞争、意外和后期可能让作品在生产中变好。
 
-Use this to decide whether a project needs control or designed uncertainty.
+用这个区别判断一个项目需要强控制，还是需要设计不确定性。
 
-### Five-Minute Work Standard
+### 五分钟作品标准
 
-A short stand-up piece resembles a compact essay or short scene:
+一段五到十分钟的内容，应该像一篇紧凑短文或一个短场景：
 
-- clear topic;
-- complete structure;
-- fresh language;
-- current relevance;
-- a turn or conclusion that feels earned.
+- 主题清楚；
+- 结构完整；
+- 语言鲜活；
+- 贴近当下；
+- 有一个成立的转折或落点。
 
-### Public Growth
+### 当众成长
 
-In a five- to ten-minute piece, the performer often needs to change in front of the audience. This can be emotional, moral, cognitive, or comic growth.
+在五到十分钟里，表演者最好有某种变化。这个变化可以是情绪、认知、道德、智慧或喜剧层面的成长。
 
-The audience enjoys seeing a person recognize something, fail, adapt, or expose a new layer.
+观众喜欢看一个人在眼前意识到什么、失败后调整、暴露新层次。
 
-## Key Concepts
+## 关键概念
 
-- **节目第一**: The final program's quality outranks individual department habits.
-- **秀**: Controlled performance based on rehearsed text.
-- **综艺/节目**: Open production where design, conflict, reaction, and editing create new value.
-- **起承转合**: Basic short-work structure: opening, development, turn, landing.
-- **当众成长**: The performer changes or reaches a new understanding while being watched.
-- **人生一场**: Long-term content can assemble many short works into the story of a person.
+- **节目第一**：最终节目质量高于部门习惯。
+- **秀**：基于排练文本的控制型表演。
+- **节目**：通过设计、冲突、反应和后期产生新价值的开放生产。
+- **起承转合**：短作品的基本结构。
+- **当众成长**：表演者在观众面前发生变化或获得理解。
+- **人生一场**：长期内容可以把多个短作品组合成一个人的故事。
 
-## Mental Models
+## 心智模型
 
-- Use **"final viewer test"** when teams argue: what will the viewer experience?
-- Use **"controlled text plus designed openness"** when evolving from script-heavy content to program content.
-- Use **"five-minute essay"** to diagnose a short set: topic, structure, language, ending.
-- Use **"growth arc"** to make a personal story feel complete.
+- 用 **最终观众测试** 处理团队争论：观众最终会看到什么？
+- 用 **强文本 + 设计开放** 从纯脚本内容进化到节目内容。
+- 用 **五分钟作文** 检查短内容：主题、结构、语言、结尾。
+- 用 **成长弧线** 让个人故事变完整。
 
-## Anti-patterns
+## 反模式
 
-- **Good bits without structure**: Funny moments that do not become a piece.
-- **Departmental purity**: Writers or directors defending their method after it stops serving the show.
-- **No change**: A short work that ends with the exact same person and same understanding as it began.
-- **Coolness over clarity**: Rejecting basic structure because it feels too ordinary.
+- **好片段没有结构**：有亮点，但不成作品。
+- **部门纯洁性**：编剧或导演坚持方法，却不再服务最终作品。
+- **没有变化**：结尾和开头是同一个人、同一个理解。
+- **酷感压过清晰**：因为基础结构不酷，就拒绝结构。
 
-## Key Takeaways
+## 可执行结论
 
-1. The finished program is the shared boss.
-2. Some projects need strong control; some need designed uncertainty.
-3. A short content piece needs theme and structure, not only jokes.
-4. The performer should often grow in public within the piece.
-5. Long-term creator IP is built by connecting many visible growth moments.
+1. 最终作品是共同老板。
+2. 有些项目需要强控制，有些需要设计不确定性。
+3. 短内容需要主题和结构，不只是笑点或观点。
+4. 表演者最好在作品里当众成长。
+5. 个人 IP 是由很多可见成长瞬间连起来的。
 
-## Connects To
+## 关联章节
 
-- **Ch 04**: Writing supplies the theme and verbal structure.
-- **Ch 05**: Performance makes growth visible.
-- **Ch 07**: Read-through and pitch turn individual drafts into program-ready work.
+- **第 04 章**：写作提供主题和语言结构。
+- **第 05 章**：表演让成长被看见。
+- **第 07 章**：读稿会和 pitch 把个人稿子变成节目可用内容。

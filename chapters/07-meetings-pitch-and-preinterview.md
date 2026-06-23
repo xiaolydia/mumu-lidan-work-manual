@@ -1,80 +1,80 @@
-# 07 Meetings, Pitch, and Pre-Interview
+# 07 读稿会、Pitch 与前采
 
-## Core Idea
+## 核心意思
 
-Creative collaboration needs efficient meetings, clear authority, and the ability to sell ideas. A good content worker is not only someone who has ideas, but someone who can make others trust and use them.
+创意协作需要高效会议、清晰权责，以及把想法卖出去的能力。好的内容人不只是有想法，还能让别人理解、信任并使用这个想法。
 
-## Frameworks Introduced
+## 关键框架
 
-### Read-Through Meeting Rules
+### 读稿会规则
 
-Use for script rooms, content reviews, creative meetings, and team critique.
+适用于脚本会、选题会、创意会、内容复盘会。
 
-1. Bring material. No empty-handed meeting.
-2. Keep the goal clear: move the work toward completion.
-3. Whoever is responsible decides.
-4. Reject with a better idea, not vague negation.
-5. Respect time; leave to revise when that is more useful than staying.
+1. 带东西来。不要空手开会。
+2. 目标明确：这次会要把作品推进到哪里。
+3. 谁负责，听谁的。
+4. 用更好的想法否定别人，而不是只说“不行”。
+5. 尊重时间。如果出去改稿更有效，就出去改。
 
-### Creative "Dictatorship"
+### 创作需要“独裁”
 
-The book argues that creation can gather many opinions, but final responsibility cannot be diffused.
+创作可以集思广益，但最终责任不能扩散。
 
-- Group discussion improves options.
-- Responsible owner makes the call.
-- The performer ultimately owns what they say on stage.
+- 群体讨论负责增加选项。
+- 负责人负责做决定。
+- 上台或发布的人最终对自己的表达负责。
 
-### Pitch Means Selling the Useful Idea
+### Pitch 是把有用的想法卖出去
 
-Pitch is not manipulation. It is using professional judgment to create a plan that helps the other party, then helping them understand why it helps them.
+Pitch 不是骗别人，而是用专业判断做出真正对对方有帮助的方案，再帮助对方理解它为什么有用。
 
-Use this with leaders, collaborators, clients, guests, platforms, sponsors, or audiences before performance.
+它适用于领导、同事、客户、嘉宾、平台、赞助商，也适用于作品发布前的内部说服。
 
-### Pre-Interview Is Pitch Plus Creation
+### 前采 = pitch + 创作
 
-Pre-interview work must both build trust and generate usable material.
+前采既要建立信任，也要生成可用素材。
 
-- Prepare deeply.
-- Offer choices, not yes/no traps.
-- Ask facts and behaviors more than abstract reasons.
-- Capture usable lines live.
-- Confirm acceptance while the person is present.
+- 提前准备。
+- 给选择，不给单一的是/否问题。
+- 多问事实和行为，少问抽象原因。
+- 在现场捕捉可用表达。
+- 趁对方在场确认能不能用。
 
-## Key Concepts
+## 关键概念
 
-- **读稿会**: Meeting where drafts are read, judged, and improved.
-- **谁负责听谁的**: Decision authority follows responsibility.
-- **是的，而且**: Improve direction by adding, not merely blocking.
-- **pitch**: Selling an idea so it enters another person's mind and action.
-- **前采**: Pre-production interview that builds trust and creates material.
-- **有选择的真实**: Say what is true, but not every true thing must be used.
+- **读稿会**：把稿子读出来、判断、修改和推进的会议。
+- **谁负责听谁的**：决策权跟着责任走。
+- **是的，而且**：不是不能否定，而是要用更好的方向接上。
+- **pitch**：让一个想法进入别人的脑子和行动。
+- **前采**：事前采访，既建立信任，也生产素材。
+- **有选择的真实**：说真话，但不是所有真话都必须说。
 
-## Mental Models
+## 心智模型
 
-- Use **"bring a draft or do not meet"** to prevent vague brainstorming.
-- Use **"better idea beats no"** when critiquing.
-- Use **"give choices"** when persuading: help the other person choose between prepared options.
-- Use **"ask what happened"** instead of "why did you do that" when interviewing.
-- Use **"love the role"**: treat guests or clients as characters who help complete the work.
+- 用 **带稿子来，否则不开会** 防止空泛头脑风暴。
+- 用 **更好想法打败“不行”** 训练反馈质量。
+- 用 **给选择** 说服别人：让对方在准备好的方案里选。
+- 用 **问发生了什么** 替代过早问“为什么”。
+- 用 **爱上角色** 对待嘉宾、客户或受访者：他们是帮你完成作品的人。
 
-## Anti-patterns
+## 反模式
 
-- **Empty meetings**: Gathering people before anyone has made a draft.
-- **Consensus without owner**: Avoiding decision by spreading responsibility.
-- **Vague rejection**: Saying something does not work without offering a direction.
-- **Interviewing for opinions only**: Asking abstract why-questions that produce guarded answers.
-- **Publicly judging collaborators**: Damages future trust and professional credibility.
+- **空手开会**：没人先做出初稿，只能空聊。
+- **没有负责人**：大家都参与，但没人拍板。
+- **模糊否定**：只说不行，不给方向。
+- **只问观点**：过早问抽象问题，让受访者戒备。
+- **公开吐槽合作者**：破坏未来信任和职业信用。
 
-## Key Takeaways
+## 可执行结论
 
-1. Creative meetings should improve a specific draft or decision.
-2. The responsible person must have final authority.
-3. Pitch is part of creative work, not a dirty add-on.
-4. Good pre-interviews create trust and usable material at the same time.
-5. Professional conduct after collaboration protects future work.
+1. 创意会议要围绕具体稿子或具体决策。
+2. 负责人必须有最终决定权。
+3. Pitch 是创意工作的一部分，不是脏活。
+4. 好前采同时生产信任和可用素材。
+5. 合作后的专业态度会保护未来机会。
 
-## Connects To
+## 关联章节
 
-- **Ch 03**: Meetings are part of treating creative work as work.
-- **Ch 04**: Drafts are the object that meetings improve.
-- **Ch 06**: Program work needs coordinated writers, performers, directors, guests, and clients.
+- **第 03 章**：会议是把创作当工作的一部分。
+- **第 04 章**：稿子是会议要改进的对象。
+- **第 06 章**：节目需要编剧、演员、导演、嘉宾和客户协同。

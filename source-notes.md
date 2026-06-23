@@ -1,41 +1,41 @@
-# Source Notes
+# 来源说明
 
-## Source
+## 来源
 
-- Book: 《李诞工作手册（全新修订版）》
-- Author: 李诞
-- Publisher metadata from the source: 江苏凤凰文艺出版社·读客文化, 2026-03
+- 书名：《李诞工作手册（全新修订版）》
+- 作者：李诞
+- 出版信息：江苏凤凰文艺出版社·读客文化，2026-03
 
-## Public Release Notes
+## 公开发布说明
 
-This repository is an unofficial, synthesized agent skill. It is designed as a working-method toolkit for content creation, self-media, stand-up writing, livestreaming, creative meetings, pitching, and professional collaboration.
+这个仓库是一个非官方的 Agent Skill，用来把书中的内容工作方法整理成可调用的实践工具。适用方向包括内容创作、自媒体、脱口秀写作、直播、创意会议、pitch 和团队协作。
 
-It does not include the original book file, scans, raw chapters, or long source excerpts. The book copyright belongs to the original author and publisher. Please buy or borrow the book through legitimate channels if you want the full text.
+仓库不包含原书文件、扫描件、原文章节或长篇摘录。原书版权属于作者和出版社。如果想阅读完整内容，请通过正规渠道购买或借阅原书。
 
-## Extraction Summary
+## 抽取概况
 
-- Extraction mode used during local generation: text
-- Text extraction method: `pdftotext`
-- Pages detected during local extraction: 98
-- Table of contents: not detected by the extractor
-- OCR: not performed
+- 本地生成时使用文本抽取模式。
+- 文本抽取方法：`pdftotext`
+- 本地抽取识别页数：98 页
+- 抽取器未识别到传统目录。
+- 未进行 OCR。
 
-## Structure Used
+## 结构整理方式
 
-The generated skill groups the source ideas into eight practical chapters:
+生成 skill 时，将书中的方法整理为八个实践章节：
 
-1. self-media mindset;
-2. authenticity and exposure;
-3. work and creative rhythm;
-4. writing and ideas;
-5. performance and style;
-6. program and short work;
-7. meetings, pitch, and pre-interview;
-8. career and professionalism.
+1. 自媒体发心与账号心态；
+2. 真诚表达与适度暴露；
+3. 把创作当工作与建立节奏；
+4. 写作、逐字稿与想法生产；
+5. 表演、镜头表达与风格；
+6. 节目意识与短作品结构；
+7. 读稿会、pitch 与前采；
+8. 职业困惑与专业性。
 
-## Limits
+## 使用边界
 
-- This skill is a synthesized working toolkit, not a substitute for the book.
-- It should be used to apply extracted working principles, not to reproduce the source text.
-- If the source contains important visual material not represented in extracted text, it is not captured here.
-- Some wording is normalized into practical agent instructions rather than preserving book order.
+- 这是一个工作方法工具包，不替代原书。
+- 它适合用来应用和讨论方法，不适合用来还原原文。
+- 如果原书中有未被文本抽取覆盖的重要视觉内容，这里没有包含。
+- 部分表达已被重组为 Agent 更容易使用的操作说明，并不保留原书顺序。

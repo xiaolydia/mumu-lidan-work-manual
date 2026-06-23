@@ -1,87 +1,87 @@
-# 05 Performance and Style
+# 05 表演、镜头表达与风格
 
-## Core Idea
+## 核心意思
 
-Performance is not decoration added after writing. It is the act of making the imagined situation believable through attention, emotion, rhythm, and the performer's actual personality.
+表演不是写完稿之后加上的装饰，而是把想象中的情境变得可信。它依赖注意力、情绪、节奏，以及表演者真实的人格。
 
-## Frameworks Introduced
+## 关键框架
 
-### Make the Audience Believe
+### 让观众相信
 
-- **When to use**: Stage, livestream, camera, presentation, podcast performance.
-- **How**: Restore the situation in front of you; let voice, gaze, gesture, and pacing follow the imagined scene.
-- **Rule**: The audience first believes the person, then follows the content.
+- **什么时候用**：舞台、直播、镜头、演讲、播客表达。
+- **怎么做**：把眼前的情境还原出来，让声音、眼神、动作和节奏跟着情境走。
+- **规则**：观众先相信这个人，再跟随这个内容。
 
-### Situation Over Words
+### 情境大于文字
 
-On stage, the performer's mind should hold the situation, not the written sentence.
+表演时，脑子里不该只有字，而应该有情境。
 
-- Memory-based scene.
-- Observed scene.
-- Invented scene.
+- 来自记忆的情境。
+- 来自观察的情境。
+- 纯虚构但在舞台上成立的情境。
 
-All can work if performed as true within the stage moment.
+只要在表演那一刻是真的，都可以成立。
 
-### Attention Solves Gaze
+### 注意力解决“看哪里”
 
-"Should I look at the audience or camera?" is often the wrong question. The better question is: where is the attention inside the scene?
+“看观众还是看镜头”常常不是好问题。更好的问题是：你在这个情境里的注意力在哪里？
 
-- If asking the room, look to the room.
-- If reflecting inward, attention can drop inward.
-- If addressing the world or camera, the gaze may move there.
+- 如果是在问现场，就看现场。
+- 如果是在自我反思，注意力可以收回来。
+- 如果是在对镜头/世界说话，眼神自然会转向那里。
 
-### Small Situation and Big Situation
+### 小情境和大情境
 
-- **Small situations**: Individual bits, scenes, and stories.
-- **Big situation**: The hosting frame, transitions, and the whole self being presented.
+- **小情境**：一个个段子、故事、场景。
+- **大情境**：主持框架、转场和整个人的呈现。
 
-Strong performance lets small situations prove and expand the big one.
+好的表演让小情境反复证明和拓展大情境。
 
-### Emotion First, Then Reason
+### 情绪先连接，道理再组织
 
-Emotion creates connection. Reason organizes the point. A high-control performance still allows moments of planned or unplanned emotional life.
+情绪让观众靠近，道理负责把观点讲清楚。高度控制的表演里，也要允许真实情绪出现。
 
-### Rhythm: Sync Then Lead
+### 节奏：先同步，再引领
 
-Rhythm means synchronizing with the audience, leading them one step beyond expectation, and repeating. A performer with rhythm keeps rebuilding trust and surprise.
+节奏就是先和观众同步，再带他们超过预期一点，然后不断循环。真正有节奏的人，会反复重建信任和惊喜。
 
-### Style as Byproduct
+### 风格是副产品
 
-Style is talent plus experience plus personality plus defects. It cannot be found by naming it too early.
+风格来自天赋、经验、人格和缺点。不能靠提前命名找到。
 
-## Key Concepts
+## 关键概念
 
-- **还原情境**: Recreating the scene the performer imagined while writing.
-- **津津有味**: Speaking as if the scene is vivid and worth entering.
-- **主持人意识**: The performer hosts their own sequence of scenes.
-- **情绪是真的**: Details may be adapted, but the emotional truth must be present.
-- **高度控制下的失控**: Prepared structure with room for live emotional breakthrough.
-- **风格**: The audience's sensed pattern of the performer over time.
+- **还原情境**：把写作时想象或记住的场景重新带到现场。
+- **津津有味**：讲得像这件事真的在眼前发生。
+- **主持人意识**：表演者主持自己脑海里一连串情境。
+- **情绪是真的**：细节可以调整，但情绪要真实。
+- **高度控制下的失控**：结构准备充分，但允许现场情绪突破。
+- **风格**：观众从长期表演中感受到的稳定模式。
 
-## Mental Models
+## 心智模型
 
-- Use **"restore, do not indicate"**: act from the remembered/imagined scene, not from a generic performance signal.
-- Use **"band lead singer, not actor"** for stand-up and personal content: heightened self, not unrelated role.
-- Use **"meaningful failure"**: fail while following the prepared situation, so revision has data.
-- Use **"style finds you"**: improve person, craft, and repetition; do not fake the label.
+- 用 **还原，不是示意**：从情境出发，不要做泛泛的表演动作。
+- 用 **乐队主唱，而不是演员**：做被放大的自己，而不是完全无关的角色。
+- 用 **有意义的失败**：按准备好的情境失败，才能得到可复盘的数据。
+- 用 **风格会来找你**：提高人、提高 craft、提高重复次数，不要先装风格。
 
-## Anti-patterns
+## 反模式
 
-- **Pleading for laughs**: Abandoning the prepared scene to chase immediate approval.
-- **Over-performing technique**: Accent, mimicry, or gesture that hides the value being shared.
-- **Confusing audience service with self-erasure**: The performer serves through stronger work, not by begging.
-- **Forcing style**: Choosing a mask instead of letting repeated work reveal one.
+- **讨好笑声**：放弃准备好的情境，只追当场反应。
+- **技巧盖过价值观**：口音、模仿、动作太抢，反而遮住观点。
+- **把服务观众变成自我消失**：不是求观众笑，而是用更强作品服务观众。
+- **强行找风格**：先选面具，而不是让作品慢慢显出风格。
 
-## Key Takeaways
+## 可执行结论
 
-1. Performance begins in the writing imagination.
-2. The audience should feel a believable person, not a reciter.
-3. Attention determines gaze and interaction better than rules do.
-4. Emotion is the connector between value and audience.
-5. Style is earned through repeated work and lived personality.
+1. 表演从写作时的想象开始。
+2. 观众要感到一个可信的人，而不是一个念稿机器。
+3. 注意力比“眼睛看哪里”的规则更重要。
+4. 情绪是连接价值观和观众的入口。
+5. 风格来自长期工作和真实人格。
 
-## Connects To
+## 关联章节
 
-- **Ch 04**: Verbatim drafts are the raw material of restored situations.
-- **Ch 06**: Short works need stage-visible growth.
-- **Ch 08**: The performer is also the long-term work being shaped.
+- **第 04 章**：逐字稿是还原情境的原材料。
+- **第 06 章**：短作品需要让成长被看见。
+- **第 08 章**：表演者本人也是长期作品。

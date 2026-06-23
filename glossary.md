@@ -1,67 +1,67 @@
-# Glossary
+# 核心概念词典
 
-**发心** - The starting motive of work; in this book, a key determinant of creative stamina and sincerity.
+**发心** - 开始做一件事的动机，决定创作的情绪质量和耐力。
 
-**真实表达** - Speaking from what one actually feels, notices, and believes, rather than from a manufactured mask.
+**真实表达** - 从真实感受、观察和相信的东西出发，而不是扮演一个面具。
 
-**起号心态** - Treating self-media primarily as an account-growth operation; useful in distribution but harmful when it dominates creation.
+**起号心态** - 把自媒体主要当成账号增长工程。传播时有用，但主导创作时会伤害内容。
 
-**陪伴感** - The value created by listening, responding, and being present with the audience.
+**陪伴感** - 通过倾听、回应和在场创造的价值。
 
-**创作者模式** - Mode focused on making, feeling, observing, and expressing.
+**创作者模式** - 关注制作、感受、观察和表达的状态。
 
-**传播者模式** - Mode focused on data, platform, packaging, feedback, and conversion.
+**传播者模式** - 关注数据、平台、包装、反馈和转化的状态。
 
-**人设** - Manufactured persona; distinguished from an audience-observed style.
+**人设** - 被设计出来的身份。和长期表达后形成的风格不同。
 
-**风格** - The stable pattern others sense from a creator's repeated work, personality, values, and defects.
+**风格** - 观众从长期作品、人格、价值观和缺点里感受到的稳定模式。
 
-**羞耻心** - Embarrassment or fear of bothering others that blocks expression, commerce, or connection.
+**羞耻心** - 怕丢脸、怕麻烦别人，常常阻碍表达和关系建立。
 
-**平常心** - Returning to ordinary judgment before acting under emotional pressure.
+**平常心** - 从情绪例外状态回到正常判断。
 
-**工作本质** - The view that creative work is still an exchange of time and skill with the market.
+**工作本质** - 创作也在用时间和能力与市场交换价值。
 
-**交易成本** - Coordination, persuasion, and market-access costs reduced by companies, platforms, or teams.
+**交易成本** - 触达、说服、协调市场所消耗的成本。
 
-**以赛代练** - Training through real work, deadlines, stages, clients, and output.
+**以赛代练** - 通过真实任务、真实发布、真实客户和真实舞台训练能力。
 
-**逐字稿** - Exact spoken draft used as a map for performance.
+**逐字稿** - 可以直接说出口的完整稿子，也是表演地图。
 
-**文字是索引** - The draft points to the imagined situation and performance state; it is not the whole performance.
+**文字是索引** - 文字指向情境、节奏和情绪，不是作品全部。
 
-**删到不能再删** - Revision principle: compress until only necessary words remain.
+**删到不能再删** - 脚本修改原则：压缩到只剩必要表达。
 
-**取法其上** - Learn from the highest standard to avoid low-level imitation.
+**取法其上** - 学习高标准，避免一开始就停在低水平模仿。
 
-**完成比完美重要** - A flawed completed draft is required before real revision can begin.
+**完成比完美重要** - 先完成烂稿，才有修改和变好的可能。
 
-**还原情境** - Recreating the imagined or remembered scene in performance.
+**还原情境** - 在表演中重新呈现写作时想象或记住的场景。
 
-**小情境** - Individual scenes, jokes, or bits inside a performance.
+**小情境** - 表演中的单个段子、故事或场景。
 
-**大情境** - The hosting frame and whole-person stance that connects the smaller scenes.
+**大情境** - 串联小情境的主持框架和整个人的姿态。
 
-**情绪是真的** - Story details may change, but the emotion must be authentic.
+**情绪是真的** - 故事细节可以调整，但情绪必须真实。
 
-**节奏** - In this skill's working definition, synchronizing with the audience, leading, and repeating.
+**节奏** - 在这里指先和观众同步，再引领，然后不断循环。
 
-**节目第一** - Let the final program's quality overrule departmental habits.
+**节目第一** - 最终节目质量高于部门习惯和个人舒适区。
 
-**当众成长** - Showing change or recognition in front of the audience within a short work.
+**当众成长** - 让观众看到讲述者在作品里发生理解、变化或暴露。
 
-**读稿会** - A meeting where drafts are read, tested, and improved.
+**读稿会** - 把稿子读出来、判断、修改和推进的会议。
 
-**谁负责听谁的** - Final decision authority belongs to the person responsible for the result.
+**谁负责听谁的** - 最终决策权跟着责任走。
 
-**pitch** - Selling an idea by making another person understand and accept its value.
+**pitch** - 把一个有用的想法卖给别人，让它进入对方的理解和行动。
 
-**前采** - Pre-production interview used to build trust and create usable material.
+**前采** - 事前采访，既建立信任，也生产可用素材。
 
-**有选择的真实** - Use truth responsibly; true does not mean everything must be said.
+**有选择的真实** - 说真话，但不是所有真话都必须说。
 
-**难而正确的事** - A hard direction that aligns with growth and values.
+**难而正确的事** - 困难，但符合长期成长和价值的方向。
 
-**解决或接受** - Basic response to difficulty: solve what can be solved, accept what cannot, or leave.
+**解决或接受** - 面对困难的两种基本动作；都不行时考虑离开。
 
-**作品是人** - The long-term product of work is the worker's developed self.
+**作品是人** - 长期来看，工作最终塑造的是人本身。

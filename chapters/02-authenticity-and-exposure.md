@@ -1,75 +1,75 @@
-# 02 Authenticity and Exposure
+# 02 真诚表达与适度暴露
 
-## Core Idea
+## 核心意思
 
-For personal content, authenticity is not decoration. It is the only sustainable operating system. The creator must learn to expose enough of the self to be believed, while protecting emotional stability and professional boundaries.
+对个人内容来说，真诚不是装饰，而是唯一可持续的系统。创作者要学会暴露足够多的自己，让别人相信；同时也要保护情绪和边界。
 
-## Frameworks Introduced
+## 关键框架
 
-### Style Is Observed, Persona Is Manufactured
+### 风格是别人观察出来的，人设是自己捏出来的
 
-- **When to use**: User asks what persona or tag to build.
-- **How**: Distinguish a label given by the audience after repeated expression from a mask invented before the work.
-- **Rule**: Let stable style emerge from repeated truthful output.
+- **什么时候用**：用户问“我要做什么人设”“我该贴什么标签”时。
+- **怎么做**：区分观众在长期表达后给你的标签，和你在开始前强行设计的面具。
+- **规则**：先持续真实输出，让稳定风格自然出现。
 
-### Restore the Self
+### 还原自己
 
-Many people can express well, but shyness, sensitivity, and social training suppress them.
+很多人不是没有表达能力，而是被羞涩、敏感和社会规则压住了。
 
-- Believe there is something worth releasing.
-- Practice in low-risk formats: recording, livestream rehearsal, private speaking, short posts.
-- Do not chase quick wit if slowness is more natural and trustworthy.
+- 相信自己有值得释放的部分。
+- 用低风险方式练习：录音、录屏、直播彩排、短帖、私下表达。
+- 不要硬追求机灵和快反应，慢而真也可以有吸引力。
 
-### Controlled Exposure
+### 有控制地暴露
 
-Exposure helps creators build connection, but the book does not recommend reckless vulnerability.
+暴露自己可以建立连接，但不是鼓励失控式自曝。
 
-- Expand experience by doing things that feel slightly embarrassing.
-- Use personal details only when they serve the work.
-- For controversy, let life, updates, and work become the long answer.
+- 做一些略微羞耻但不会伤害自己的事，扩展体验。
+- 私人细节只有服务内容时才使用。
+- 面对争议时，长期生活、更新和作品就是最好的解释。
 
-### Emotional Cooling Rule
+### 情绪冷却规则
 
-When attacked or excited, do not decide immediately.
+被攻击、兴奋或愤怒时，不要立刻做决定。
 
-- Name the event.
-- Name the emotion.
-- Imagine consequences of replying from anger.
-- Re-enter ordinary state before acting.
+1. 说清发生了什么。
+2. 说清自己的情绪。
+3. 想象从愤怒出发会带来什么后果。
+4. 回到平常状态后再行动。
 
-## Key Concepts
+## 关键概念
 
-- **人设**: A manufactured identity that may help short-term positioning but can harm long-term sincerity.
-- **风格**: The audience's stable impression of the creator after enough work.
-- **羞耻心**: Fear of embarrassment or bothering others; often blocks useful action.
-- **互相麻烦**: Real relationships deepen through reasonable requests and mutual help.
-- **平常心**: Returning from emotional exception to ordinary judgment.
-- **带货羞耻**: Discomfort when commerce seems to contaminate sharing; can be reduced by aligning product language with personal language.
+- **人设**：被制造出来的身份，可能帮助短期定位，但会伤害长期真诚。
+- **风格**：观众从长期作品里感受到的稳定印象。
+- **羞耻心**：怕丢脸、怕麻烦别人，常常阻碍行动。
+- **互相麻烦**：合理地请求和帮助，会让关系变深。
+- **平常心**：从情绪例外状态回到日常判断。
+- **带货羞耻**：商业表达和自我表达不一致时产生的不适。
 
-## Mental Models
+## 心智模型
 
-- Use **"label after output"**: create first, let labels follow.
-- Use **"two versions for clients"** when brand copy feels fake: produce one in client style and one in your real style, then compare.
-- Use **"mirror review"** for anger: explain the other side, consequences, your feeling, and possible responses out loud.
-- Think of negative comments as **inputs that do not own your reaction**.
+- 用 **先输出，后标签**：先创作，标签让观众慢慢给。
+- 用 **双版本交付**：客户文案太假时，做一个客户风格版和一个真实语言版，让结果说话。
+- 用 **镜子复盘**：把对方动机、事件后果、自己的情绪和回应方式讲出来。
+- 把恶评当成 **不拥有你反应的输入**。
 
-## Anti-patterns
+## 反模式
 
-- **Performing a persona you cannot live inside**: Generates anxiety and inconsistency.
-- **Mistaking quick reaction for expression quality**: Speed is not the core.
-- **Arguing with every misunderstanding**: Keeps the creator inside the attacker's frame.
-- **Avoiding all requests**: Refusing to "bother" people can also refuse relationship.
+- **演一个自己住不进去的人设**：会焦虑、会不一致、会累。
+- **把快反应当表达能力**：速度不是表达核心。
+- **解释每个误会**：会一直活在攻击者的框架里。
+- **完全不麻烦别人**：也可能是在拒绝关系。
 
-## Key Takeaways
+## 可执行结论
 
-1. Do not build a persona before building a truthful body of work.
-2. Practice expression by speaking more, not by forcing cleverness.
-3. Exposure is a craft: show enough to be real, not so much that you injure yourself.
-4. In commercial content, translate selling into your own believable language.
-5. When emotions are high, pause before deciding.
+1. 不要先设计人设，先做真实作品。
+2. 表达能力靠持续说和持续练，不靠硬装聪明。
+3. 暴露是一门手艺：够真实，但不伤害自己。
+4. 商业内容要翻译成自己的语言，才可信。
+5. 情绪高的时候，先暂停再决策。
 
-## Connects To
+## 关联章节
 
-- **Ch 01**: Authenticity protects the original motive.
-- **Ch 05**: Performance also depends on believable self-exposure.
-- **Ch 07**: Pitch requires enough confidence to ask, sell, and revise with others.
+- **第 01 章**：真诚保护发心。
+- **第 05 章**：表演也需要可信的自我暴露。
+- **第 07 章**：pitch 需要足够自信地请求、销售和修改。

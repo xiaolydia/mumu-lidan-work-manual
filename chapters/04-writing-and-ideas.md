@@ -1,80 +1,80 @@
-# 04 Writing and Ideas
+# 04 写作、逐字稿与想法生产
 
-## Core Idea
+## 核心意思
 
-Writing for spoken comedy or content starts with concrete material, exact wording, ruthless deletion, and repeated practice. Insight matters, but insight is produced by work more often than by waiting.
+口播、脱口秀和内容写作要从具体材料、准确措辞、反复删改和持续练习开始。洞察很重要，但洞察往往是工作逼出来的，不是等来的。
 
-## Frameworks Introduced
+## 关键框架
 
-### Write Verbatim Drafts
+### 写逐字稿
 
-- **When to use**: Stand-up, livestream script, short video monologue, speech, podcast opening.
-- **How**: Write the exact words you expect to say, including rhythm and transitions.
-- **Why**: The draft becomes a performance index, allowing the speaker to restore the imagined scene.
+- **什么时候用**：脱口秀、直播稿、短视频口播、演讲、播客开头。
+- **怎么做**：写下真正要说出口的每一个字，包括节奏和转场。
+- **为什么**：逐字稿是表演索引，能帮你回到当初想象的情境。
 
-### Delete Until It Cannot Be Deleted
+### 删到不能再删
 
-Revision should compress.
+修改脚本的核心动作是压缩。
 
-- Remove throat-clearing.
-- Replace explanation with scene.
-- Replace reported dialogue with performed dialogue when possible.
-- Keep words that carry rhythm, image, conflict, or point of view.
+- 删除铺垫和废话。
+- 把“他说/她说”改成直接对话。
+- 用动作和场景替代解释。
+- 只保留承载意义、节奏、惊讶、情绪和观点的字。
 
-### Quantity Before Quality
+### 先有量，再谈质量
 
-The book repeatedly returns to volume: write more, revise more, use assignments, and create under deadlines.
+持续写、持续改、接受命题、接受截止日期，都是创作者的基本训练。
 
-- Daily writing builds baseline.
-- Rewriting builds taste.
-- Bad drafts are material for better drafts.
+- 每天写，建立基线。
+- 反复改，训练品味。
+- 烂稿是好稿的原料。
 
-### Topic Boundary Creates Ideas
+### 主题边界制造想法
 
-Unlimited freedom often blocks creation. A given theme, list, prompt, client need, or show topic can force hidden observations to surface.
+完全自由经常让人写不出来。主题、题库、客户需求、节目命题、截止日期，都能逼出隐藏的观察。
 
-- Pick a theme.
-- Produce a bad first version.
-- Find the emotion or contradiction inside it.
-- Revise toward clarity and comic force.
+1. 选一个主题。
+2. 先写一个烂版本。
+3. 找到里面真实的情绪或矛盾。
+4. 往清晰、有力、好笑或有洞察的方向改。
 
-### Story Carries Value
+### 故事承载价值观
 
-For realistic spoken comedy, even "just a story" carries values. The creator is showing what kind of life, conflict, embarrassment, or wisdom is worth noticing.
+现实主义口播和脱口秀里，“只是讲故事”也在表达价值观。你讲什么生活、什么冲突、什么尴尬、什么智慧，都会暴露你怎么看世界。
 
-## Key Concepts
+## 关键概念
 
-- **逐字稿**: Exact spoken draft that indexes future performance.
-- **文字是索引**: Words point back to situation, rhythm, and emotion; they are not the whole work.
-- **删到不能再删**: Compression principle for scripts.
-- **取法其上**: Study high standards to avoid becoming only average.
-- **完成比完美重要**: Start with a flawed draft so revision can exist.
-- **主题**: Boundary that helps work travel and cohere.
+- **逐字稿**：可直接说出口的稿子，也是表演地图。
+- **文字是索引**：文字指向情境、节奏和情绪，不是全部作品。
+- **删到不能再删**：脚本压缩原则。
+- **取法其上**：学习高标准，避免一开始就停在低水平模仿。
+- **完成比完美重要**：先有烂稿，才有修改对象。
+- **主题**：让作品成立和传播的容器。
 
-## Mental Models
+## 心智模型
 
-- Use **"draft as rehearsal map"**: write as if you can already see yourself saying it.
-- Use **"bad draft unlocks revision"** when the user is stuck.
-- Use **"theme as container"** to make a five-minute piece coherent.
-- Use **"story then view"**: let the concrete story reveal the stance.
+- 用 **稿子是排练地图**：写的时候就想象自己怎么说。
+- 用 **烂稿打开修改**：卡住时先写坏，再改好。
+- 用 **主题当容器**：让五分钟内容不散。
+- 用 **故事先行，观点随后**：用具体故事露出立场。
 
-## Anti-patterns
+## 反模式
 
-- **Hiding behind inspiration**: Waiting for a lightning strike instead of setting prompts and deadlines.
-- **Cheap language**: Overusing memes, puns, and easy internet phrasing when a more original line is possible.
-- **Explaining the scene**: Telling the audience what happened instead of restoring it.
-- **Protecting weak lines**: Keeping words because they were hard to write, not because they work.
+- **躲在灵感后面**：等雷劈，不设命题和截止日期。
+- **廉价语言**：过度依赖网络梗、谐音梗、流行话。
+- **解释场景**：只告诉观众发生了什么，不把情境还原出来。
+- **保护弱句子**：因为写得辛苦就舍不得删。
 
-## Key Takeaways
+## 可执行结论
 
-1. For spoken work, write what will actually be said.
-2. Revision is largely deletion and scene restoration.
-3. Good writing grows from volume plus repeated correction.
-4. Prompts, topics, and deadlines are not enemies of creativity.
-5. A story is never neutral; it reveals a value system.
+1. 口播内容要写真正能说出口的字。
+2. 修改很大程度上就是删字和还原情境。
+3. 好写作来自数量和反复纠正。
+4. 命题、主题和截止日期可以帮助创作。
+5. 每个故事都带着价值观。
 
-## Connects To
+## 关联章节
 
-- **Ch 05**: Performance restores what writing imagined.
-- **Ch 06**: Five-minute pieces need theme, structure, and growth.
-- **Ch 07**: Read-through meetings improve drafts through other people's judgment.
+- **第 05 章**：表演要还原写作时想象的情境。
+- **第 06 章**：五分钟短作品需要主题、结构和成长。
+- **第 07 章**：读稿会通过别人的判断提高稿子。

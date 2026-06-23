@@ -1,177 +1,177 @@
-# Patterns
+# 可复用模式
 
 ## 发心校准
 
-**When to use**: Starting or repositioning an account, newsletter, livestream, podcast, or personal IP.
+**什么时候用**：启动或重定位账号、栏目、直播、播客、个人 IP。
 
-**How**:
+**怎么做**：
 
-1. Write what the creator genuinely wants to share.
-2. Name the people they want to serve or meet.
-3. Separate intrinsic motive from growth motive.
-4. Reject directions that require a fake persona or permanent anxiety.
-5. Choose a cadence that can be repeated for years.
+1. 写下创作者真正想分享什么。
+2. 写下想服务或连接哪一类人。
+3. 区分内在发心和增长动机。
+4. 排除需要长期扮演、长期焦虑的方向。
+5. 选择能重复几年的内容节奏。
 
-**Trade-offs**: Slower than trend chasing, but more durable and emotionally stable.
+**取舍**：比追热点慢，但更稳、更不伤人。
 
-## Creator/Distributor Split
+## 创作者/传播者分离
 
-**When to use**: User is anxious about data while making content.
+**什么时候用**：用户一边创作一边被数据焦虑拖住。
 
-**How**:
+**怎么做**：
 
-1. Draft without looking at metrics.
-2. Publish with respect for platform format and timing.
-3. Review data in a scheduled block.
-4. Adjust packaging, topic, or rhythm, not the creator's basic self.
+1. 写第一稿时不看数据。
+2. 发布时尊重平台格式、标题、时间和封面。
+3. 固定时间复盘数据。
+4. 调整包装、主题或节奏，不轻易否定自己的基本表达。
 
-**Trade-offs**: Requires discipline because data feedback is addictive.
+**取舍**：需要纪律，因为数据反馈很容易上瘾。
 
-## Verbatim Draft Workflow
+## 逐字稿工作流
 
-**When to use**: Spoken content, livestream monologue, stand-up, pitch opening, short video script.
+**什么时候用**：口播、直播独白、脱口秀、演讲开场、短视频脚本。
 
-**How**:
+**怎么做**：
 
-1. Write exact words.
-2. Mark where scenes, roles, emotions, and turns happen.
-3. Read aloud.
-4. Delete filler and reported explanation.
-5. Rehearse by restoring the scene, not memorizing mechanically.
+1. 写出真正要说的话。
+2. 标出场景、角色、情绪和转折。
+3. 朗读。
+4. 删除废话和解释。
+5. 排练时还原情境，不机械背稿。
 
-**Trade-offs**: Takes more time upfront, but makes rehearsal and revision concrete.
+**取舍**：前期更费时间，但后期排练和修改会具体很多。
 
-## Delete to the Bone
+## 删到骨头
 
-**When to use**: Script feels verbose, slow, or explanatory.
+**什么时候用**：脚本啰嗦、节奏慢、解释太多。
 
-**How**:
+**怎么做**：
 
-1. Remove prefaces.
-2. Change "he asked me..." into direct dialogue where possible.
-3. Replace explanation with action or image.
-4. Keep only words that carry meaning, rhythm, surprise, or emotion.
-5. Test aloud again.
+1. 删除开场废话。
+2. 把转述改成直接对话。
+3. 用动作和画面替代解释。
+4. 只保留意义、节奏、惊讶或情绪。
+5. 再次朗读测试。
 
-**Trade-offs**: Over-deletion can remove personality; preserve rhythm words when they are intentional.
+**取舍**：删过头会丢掉个性，保留真正有节奏感的口语。
 
-## Prompt Yourself
+## 给自己出题
 
-**When to use**: Creator has no inspiration.
+**什么时候用**：没灵感、不知道写什么。
 
-**How**:
+**怎么做**：
 
-1. Pick an external topic, prompt, client need, or deadline.
-2. Force a bad draft.
-3. Find the true feeling or contradiction inside it.
-4. Rewrite toward a clear theme.
+1. 选一个外部主题、客户需求、节目命题或截止日期。
+2. 强行写一个烂版本。
+3. 找到里面真实的感受或矛盾。
+4. 围绕清晰主题重写。
 
-**Trade-offs**: The first output may be poor; the value is in generating material.
+**取舍**：第一版可能很差，但价值在于产出可修改材料。
 
-## Situation Restoration
+## 情境还原
 
-**When to use**: Performance feels stiff or the speaker is asking where to look.
+**什么时候用**：表演僵硬，或用户纠结“看哪里”“怎么动”。
 
-**How**:
+**怎么做**：
 
-1. Identify the scene behind each segment.
-2. Ask what the performer sees, wants, and feels in that scene.
-3. Let gaze, gesture, and pace follow attention.
-4. Record and review whether the scene is visible to the audience.
+1. 找出每段背后的具体情境。
+2. 问表演者在情境里看见什么、想要什么、感到什么。
+3. 让眼神、动作、语速跟着注意力走。
+4. 录下来检查情境是否被观众看见。
 
-**Trade-offs**: Can feel abstract at first; needs rehearsal and video review.
+**取舍**：一开始会有点抽象，需要排练和回看。
 
-## Sync Then Lead
+## 先同步，再引领
 
-**When to use**: Pacing, persuasion, jokes, or teaching feel off.
+**什么时候用**：节奏、说服、笑点、教学不顺。
 
-**How**:
+**怎么做**：
 
-1. Start with something the audience already recognizes.
-2. Add one new angle, reversal, or pressure.
-3. Re-synchronize through shared emotion or concrete detail.
-4. Lead again.
+1. 从观众已经认识的东西开始。
+2. 加一个新角度、反转或压力。
+3. 用共同情绪或具体细节重新同步。
+4. 再次引领。
 
-**Trade-offs**: Too much sync is boring; too much lead is confusing.
+**取舍**：同步太多会无聊，引领太多会听不懂。
 
-## Meaningful Failure
+## 有意义的失败
 
-**When to use**: A performance or post fails.
+**什么时候用**：演出、发布、口播或选题失败。
 
-**How**:
+**怎么做**：
 
-1. Check whether the creator followed the intended draft/situation.
-2. If yes, use the result to revise the work.
-3. If no, rebuild preparation and attention before interpreting audience feedback.
+1. 判断是否按原计划执行。
+2. 如果按计划失败，就用结果修改作品。
+3. 如果执行已经乱了，先修准备和注意力，再谈数据。
 
-**Trade-offs**: Requires honesty; random improvisation produces less useful data.
+**取舍**：需要诚实。随机发挥带来的失败，很难复盘。
 
-## Five-Minute Piece Builder
+## 五分钟作品搭建
 
-**When to use**: Building a short stand-up set, video essay, speech, or content segment.
+**什么时候用**：短视频、脱口秀、演讲、视频 essay、知识口播。
 
-**How**:
+**怎么做**：
 
-1. Choose one topic.
-2. Define the starting state of the speaker.
-3. Build scenes or examples that develop the topic.
-4. Add a turn, recognition, or growth.
-5. End with a landing that makes the piece feel complete.
+1. 选一个主题。
+2. 定义讲述者的起点状态。
+3. 用场景或例子推进。
+4. 加入转折、理解或成长。
+5. 用一个像结尾的落点收住。
 
-**Trade-offs**: Structure may feel uncool, but audiences need orientation.
+**取舍**：结构可能不酷，但观众需要方向。
 
-## Read-Through Meeting
+## 读稿会
 
-**When to use**: Script review, creative meeting, content room.
+**什么时候用**：脚本审稿、内容会、创意会。
 
-**How**:
+**怎么做**：
 
-1. Require draft material before the meeting.
-2. State the target decision.
-3. Read or perform the draft.
-4. Improve with concrete alternatives.
-5. Let the responsible owner decide.
-6. Send people out to revise when staying wastes time.
+1. 会前必须有稿子。
+2. 明确本次要做什么决定。
+3. 读出来或演出来。
+4. 用具体替代方案修改。
+5. 负责人拍板。
+6. 如果出去改更有效，就出去改。
 
-**Trade-offs**: Strong ownership may frustrate contributors, but diffused authority weakens output.
+**取舍**：强负责人可能让部分人不舒服，但权责扩散会削弱结果。
 
-## Pitch With Choices
+## 带选择的 Pitch
 
-**When to use**: Selling an idea to a client, guest, boss, platform, or teammate.
+**什么时候用**：向客户、嘉宾、老板、同事、平台推想法。
 
-**How**:
+**怎么做**：
 
-1. Prepare multiple options.
-2. Make the preferred option genuinely useful for the other party.
-3. Present choices instead of asking for broad permission.
-4. Revise live when needed.
-5. Confirm acceptance clearly.
+1. 准备多个方案。
+2. 让首选方案真的对对方有用。
+3. 给选择，不问空泛的“行不行”。
+4. 现场根据反馈调整。
+5. 明确确认对方接受什么。
 
-**Trade-offs**: Requires more preparation; reduces rejection and ambiguity.
+**取舍**：准备量更大，但能减少拒绝和误解。
 
-## Pre-Interview for Material
+## 前采拿素材
 
-**When to use**: Interviewing guests, founders, creators, or clients before content production.
+**什么时候用**：采访嘉宾、创始人、创作者、客户之前。
 
-**How**:
+**怎么做**：
 
-1. Research deeply.
-2. Ask facts, actions, timelines, and scenes.
-3. Avoid abstract "why" questions early.
-4. Catch usable language and test it live.
-5. Confirm what can be used.
+1. 先做充分研究。
+2. 问事实、行为、时间线和场景。
+3. 早期少问抽象“为什么”。
+4. 现场捕捉可用表达。
+5. 确认可公开使用的内容。
 
-**Trade-offs**: May feel less philosophical, but produces more usable material.
+**取舍**：看起来没那么哲学，但更容易产出可用材料。
 
-## Difficult and Correct Upgrade
+## 难而正确的升级
 
-**When to use**: User feels work is stale, too easy, or meaningless.
+**什么时候用**：用户觉得工作停滞、太容易或没意义。
 
-**How**:
+**怎么做**：
 
-1. Identify whether the problem is boredom, compromise, or impossibility.
-2. Upgrade the current path if it can still grow.
-3. Change road if it cannot.
-4. Choose the harder correct task over the easy avoidance loop.
+1. 判断问题来自无聊、妥协还是无望。
+2. 当前方向还能成长，就升级。
+3. 不能成长，就换路。
+4. 选择难而正确的事，不要在容易逃避里绕圈。
 
-**Trade-offs**: Harder path may not give quick validation.
+**取舍**：难路通常不会立刻给反馈。

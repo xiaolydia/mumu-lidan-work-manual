@@ -1,87 +1,89 @@
-# 08 Career and Professionalism
+# 08 职业困惑与专业性
 
-## Core Idea
+## 核心意思
 
-The long-term work is the person. Projects fail, succeed, repeat, or lose meaning; the important question is whether the worker becomes more capable, more honest, and more professional through them.
+长期来看，真正的作品是人自己。项目会成功、失败、重复或失去意义，更重要的是工作有没有让这个人变得更有能力、更诚实、更专业。
 
-## Frameworks Introduced
+## 关键框架
 
-### Do Difficult and Correct Things
+### 做难而正确的事
 
-When work becomes too easy, meaningless, or compromised, choose an upgrade or a harder correct path when possible.
+当工作太容易、无意义或妥协太多时，要么升级当前道路，要么换路。
 
-- If a direction has small success but no growth, upgrade it.
-- If a direction is hopeless, change road.
-- If the difficult thing is clearly right, avoiding it may consume more energy than doing it.
+- 小成功但没有成长，就升级。
+- 完全无望，就换方向。
+- 如果一件事很难但明显正确，绕开它可能消耗更多能量。
 
-### Solve It or Accept It
+### 解决它，或接受它
 
-For work problems:
+面对工作问题：
 
-- Solve what can be solved.
-- Accept what cannot be solved.
-- Leave when the environment makes meaningful work impossible.
+- 能解决的，就解决。
+- 解决不了的，就接受。
+- 环境让有意义工作不可能时，就离开。
 
-This is not passivity; it is reducing wasted resistance.
+这不是消极，而是减少无效抵抗。
 
-### You Are the Purpose
+### 你才是目的
 
-Individual projects are not the final purpose. The person being trained by those projects is. Exhaustive effort is not wasted if it upgrades judgment, skill, courage, or taste.
+单个项目不是最终目的。被项目训练出来的那个人，才是更长期的成果。
 
-### Learn by Thinking Like Other Roles
+努力没有得到预期结果，也可能升级了判断、技能、勇气或品味。
 
-To improve in a content industry, think like adjacent roles:
+### 像其他岗位一样思考
 
-- Writer studies editing.
-- Editor studies planning.
-- Performer studies production.
-- Content worker studies platform and business.
+内容行业想快速成长，需要理解相邻岗位：
 
-This is not only for promotion; it makes the current job better.
+- 写作者要理解剪辑。
+- 剪辑要理解策划。
+- 表演者要理解制作。
+- 内容人要理解平台和商业。
 
-### Professional Priority Sorting
+这不是为了升职，而是为了把当前工作做得更好。
 
-Not every task can be first. When exhausted or emotionally unstable, sorting priorities is part of professionalism.
+### 专业排序
 
-- Which task truly matters?
-- Which task can fail safely?
-- Is emotional recovery itself the first task right now?
+不可能每件事都第一重要。疲惫或情绪不稳定时，排序本身就是专业能力。
 
-## Key Concepts
+- 哪件事真的重要？
+- 哪件事失败也能承受？
+- 此刻最重要的任务是不是先处理自己的情绪？
 
-- **难而正确的事**: A task or direction that is hard but aligned with long-term growth and values.
-- **解决或接受**: Two basic responses to work difficulty.
-- **作品是人**: The ultimate product of work is the worker's developed self.
-- **像负责人一样思考**: Understanding the whole project, not only one's narrow role.
-- **情绪作为武器**: Emotion can signal seriousness, but it is dangerous and should not become habit.
-- **专业排序**: Deciding what deserves first-level response.
+## 关键概念
 
-## Mental Models
+- **难而正确的事**：困难，但符合长期成长和价值的方向。
+- **解决或接受**：面对困难的两种基本方式。
+- **作品是人**：工作最终塑造的是人本身。
+- **像负责人一样思考**：理解整个项目，不只守住自己的小岗位。
+- **情绪作为武器**：情绪能传递重视，但危险，不能上瘾。
+- **专业排序**：判断什么值得一级响应。
 
-- Use **"upgrade or leave"** when a project becomes stagnant.
-- Use **"five-year memory test"** when a failure feels final.
-- Use **"role expansion"** to learn faster: ask how another department would see the problem.
-- Use **"priority grading"** during overload.
-- Use **"process over anger"**: if emotional force is repeatedly needed, process is failing.
+## 心智模型
 
-## Anti-patterns
+- 用 **升级或离开** 处理停滞项目。
+- 用 **五年后还记得吗** 缓解当下失败的绝对感。
+- 用 **角色扩展学习**：问别的岗位会怎么看这个问题。
+- 用 **优先级分级** 处理过载。
+- 用 **流程替代发火**：如果经常需要情绪武器，说明流程坏了。
 
-- **Romanticizing doubt**: Staying in confusion instead of choosing the next hard task.
-- **Trying to solve the unsolvable forever**: Some constraints should be accepted or exited.
-- **Being addicted to emotional weapons**: Tears or anger may work once but corrode the worker.
-- **Narrow-role thinking**: Refusing to understand editing, production, market, or collaborators.
-- **Treating every task as decisive**: Creates false anxiety, especially for junior workers.
+## 反模式
 
-## Key Takeaways
+- **浪漫化怀疑**：沉迷困惑，不选择下一件难事。
+- **永远解决无解问题**：有些限制该接受或离开。
+- **对情绪武器上瘾**：眼泪和怒火可能有效，但会反伤自己。
+- **窄岗位思维**：拒绝理解剪辑、制作、市场和合作者。
+- **把每件事都当人生转折点**：尤其会制造新人的假焦虑。
 
-1. When work loses meaning, look for a harder and more correct upgrade.
-2. Solve what you can; accept or leave what you cannot.
-3. Failed projects can still train the person.
-4. Learn adjacent roles to do your own role better.
-5. Professionalism includes caring for the person who must keep working.
+## 可执行结论
 
-## Connects To
+1. 工作失去意义时，寻找更难也更正确的升级。
+2. 能解决就解决，不能解决就接受或离开。
+3. 失败项目也可能训练人。
+4. 学相邻岗位，是为了把本职工作做得更好。
+5. 专业性也包括照顾那个还要长期工作的人。
 
-- **Ch 01**: Long-term creator mindset reduces false urgency.
-- **Ch 03**: Work rhythm turns difficulty into growth.
-- **Ch 07**: Professional collaboration depends on trust, process, and authority.
+## 关联章节
+
+- **第 01 章**：长期创作者心态能降低虚假紧迫感。
+- **第 03 章**：工作节奏把困难转成成长。
+- **第 07 章**：专业协作依赖信任、流程和权责。

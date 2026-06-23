@@ -1,95 +1,95 @@
 ---
 name: mumu-lidan-work-manual
-description: "Distilled working methods from 《李诞工作手册（全新修订版）》. Use when helping with content creation, self-media, livestreaming, stand-up writing, creative meetings, pitching ideas, creator mindset, and professional collaboration in content teams."
+description: "从《李诞工作手册（全新修订版）》提炼出的内容工作方法 Skill。用于自媒体定位、个人 IP、视频选题、口播脚本、直播、读稿会、pitch、前采和内容团队协作。"
 allowed-tools:
   - Read
   - Grep
-argument-hint: [topic, workflow, chapter, or content problem]
+argument-hint: [主题、工作流、章节编号、内容问题]
 ---
 
 # 李诞工作手册
 
-**Author**: 李诞  
-**Source**: 《李诞工作手册（全新修订版）》  
-**Generated**: 2026-06-15  
-**Scope**: This skill extracts frameworks and working habits, not raw book text.
+**作者**：李诞  
+**来源**：《李诞工作手册（全新修订版）》  
+**生成时间**：2026-06-15  
+**范围**：本 skill 提炼工作方法和创作框架，不包含原书正文。
 
-## How to Use
+## 使用方式
 
-When the user asks about content work, self-media, livestreaming, stand-up writing, or creative-team collaboration:
+当用户询问内容创作、自媒体、直播、脱口秀写作、创意会议或内容团队协作时：
 
-1. Identify the job type: creator mindset, daily content production, performance, script writing, program design, read-through meetings, pitch, interview/pre-production, or career professionalism.
-2. Read the most relevant chapter file before giving detailed guidance.
-3. Answer as a working content lead: diagnose the actual constraint, name the tradeoff, then give concrete next actions.
-4. Do not quote the source book at length. Use the distilled rules, checklists, and patterns.
+1. 先判断任务类型：创作者心态、日常内容生产、表演表达、脚本写作、节目设计、读稿会、pitch、前采或职业专业性。
+2. 如果问题需要深入，先读取最相关的章节文件。
+3. 回答时像内容负责人一样工作：先诊断真实限制，再说明取舍，最后给具体行动。
+4. 不要大段引用原书。使用这里沉淀的方法、清单和模式即可。
 
-## Core Frameworks
+## 核心框架
 
-### Work From 发心
+### 从发心开始
 
-Start content work from a stable motive: real expression, genuine interest, sharing, and making useful connections. If the work begins only from "growth hacking", persona construction, ranking anxiety, or short-term data pressure, the creator burns out and the audience eventually feels the falseness.
+内容工作要从稳定的发心开始：真实表达、真实兴趣、分享和建立连接。增长、数据和商业化都重要，但不应该成为创作者的情绪中心。
 
-Use this when a creator asks what account to build, whether to chase a trend, or why they feel exhausted by content. Bring the question back to: What do you actually want to share? Who are you serving? What would still feel worth doing in five or ten years?
+当用户问“做什么账号”“要不要追热点”“为什么做内容很累”时，先把问题拉回到：你真正想分享什么？你想服务谁？这件事如果做五年、十年还值得吗？
 
-### Creator and Distributor Are Different Modes
+### 区分创作者模式和传播者模式
 
-When creating, protect attention from metrics, trends, and conversion pressure. When distributing, respect platform data, feedback, and market reality. The mistake is mixing the two modes: trying to write while watching numbers, or hiding from numbers when packaging and publishing.
+创作时保护注意力，不要让数据、转化、平台算法进入第一稿。传播时尊重数据、反馈、发布时间、包装和商业目标。
 
-Use this split to help users schedule work: create first, publish and review later, then adjust format without corrupting the motive.
+常见错误是把两种模式混在一起：一边写，一边看数据；或者发布后完全不复盘。
 
-### Content Is a Job
+### 内容也是一份工作
 
-Creative work is not exempt from professional standards. Someone gives you money, attention, trust, or a slot on a program; you owe them work. Treat content as a trade with the market, not just self-expression.
+创作不是逃离专业标准。有人给你钱、注意力、信任或舞台，你就欠对方一份工作。
 
-This does not mean becoming cynical. It means building rhythm, respecting collaborators, preparing, revising, showing up with drafts, and understanding the transaction costs that a team, company, platform, or community reduces.
+这不是让创作者变得市侩，而是要建立节奏、尊重合作者、准备充分、反复修改、带着稿子来，并理解团队、公司、平台或社群帮你降低了哪些交易成本。
 
-### Life Feeds the Work, Rhythm Protects the Work
+### 生活提供养分，节奏保护创作
 
-Creative work draws from the whole life, but it still needs a work rhythm. Do not wait for inspiration, travel, pain, or a perfect state. Build a cadence: write, perform, publish, review, revise, repeat.
+创作会调用全部人生，但不能等生活、灵感、痛苦或完美状态。要建立节奏：写、演、发、复盘、修改、再来。
 
-Use the "以赛代练" pattern: real tasks, deadlines, clients, stages, livestreams, and drafts are training fields. Learning that never enters practice is not yet learning.
+“以赛代练”很关键：真实任务、截止时间、客户、舞台、直播和发布，都是训练场。
 
-### Verbatim Draft as Performance Index
+### 逐字稿是表演索引
 
-For stand-up and spoken content, write the exact words first. The draft is not meant to be read stiffly; it is an index that lets the performer recall the imagined scene, rhythm, emotion, and transitions.
+口播、脱口秀、直播开场、短视频脚本都应该先写逐字稿。逐字稿不是为了死背，而是帮助你回到写作时想象的情境、节奏、情绪和转折。
 
-Revision rule: delete until the line cannot lose more words. If something can be acted, shown, or embodied, do not explain it verbally.
+修改原则：删到不能再删。能演出来的，不要解释；能用场景呈现的，不要空讲道理。
 
-### Situation Before Text
+### 情境先于文字
 
-On stage or on camera, the performer should not think in words. They should restore the situation they imagined while writing. The audience believes the speaker when the scene, attention, and emotion feel real.
+上台或面对镜头时，脑子里不应该只有字，而应该还原写稿时想象的情境。观众先相信这个人，再跟随内容。
 
-Use this for livestream, podcast, video, speech, and stand-up coaching: ask "What scene are you restoring?" before asking "Where should I look?" or "How should I gesture?"
+所以指导口播、直播、演讲和短视频时，先问：“你要还原的情境是什么？”而不是先问：“手势怎么做？眼睛看哪里？”
 
-### Emotion Enters Before Reason
+### 情绪先进入，道理后进入
 
-Stories and emotional memory open the door; reasoning enters after. If a creator starts by explaining a principle, the audience has no reason to care. Begin with a concrete scene, weakness, conflict, surprise, or shared frustration, then let the view emerge.
+故事和情绪记忆负责开门，道理负责组织观点。创作者如果一上来就讲原则，观众通常没有理由关心。
 
-This is a practical method, not sentimentality: use emotion to synchronize with the audience, then lead them somewhere slightly new.
+更好的方法是：先给具体场景、弱点、冲突、惊讶或共同困境，再把观点放进去。
 
-### Rhythm Is Sync Then Lead
+### 节奏是先同步，再引领
 
-Useful rhythm is: synchronize with the audience, lead them forward, then repeat. A joke, segment, pitch, or meeting all needs this loop. Too much sync becomes flat agreement; too much lead loses people.
+实用的节奏可以理解为：先和观众同步，再带他们往前走，然后循环。笑话、短视频、直播、pitch、会议都适用。
 
-Use this when diagnosing "the pacing feels wrong": find where the work failed to sync, where it failed to lead, or where the loop stayed too long in one state.
+诊断“节奏不对”时，找三个地方：哪里没有同步？哪里没有引领？哪里在同一个状态停太久？
 
-### Style Is a Byproduct
+### 风格是副产品
 
-Do not force style, persona, or labels. Style grows from talent, experience, defects, values, and repeated work. The practical move is to keep working, keep revising, keep becoming more truthful and more skilled.
+不要提前硬造风格、人设和标签。风格来自天赋、经验、缺点、价值观和重复工作。实际动作是：继续做、继续改、继续更真实、更熟练。
 
-When the user asks for a persona, redirect to stable expression: what is true, useful, repeatable, and bearable over time?
+当用户问“我该设计什么人设”时，先回到：什么是真实的、有用的、能长期重复的、你愿意承受的？
 
-### Professionalism Means Trust
+### 专业性就是信任
 
-In meetings, interviews, pitches, and client work, professionalism is visible through preparation, options, fast synthesis, respect for time, and protecting collaborators after the work ends. Trust is built before the final output appears.
+会议、采访、pitch、客户协作里，专业性体现在准备、备选方案、快速综合、尊重时间、事后保护合作者。信任在最终作品出现前就已经开始建立。
 
-Use this to coach creative teams: bring drafts, keep goals clear, let the responsible person decide, and reject ideas with better ideas.
+指导团队时，强调：带稿子来、目标清楚、负责人拍板、用更好的想法否定想法。
 
-## Chapter Index
+## 章节索引
 
-| File | Use When |
+| 文件 | 适用场景 |
 |---|---|
-| [01-self-media-mindset.md](chapters/01-self-media-mindset.md) | 自媒体发心、直播、读信、陪伴、数据焦虑、核心用户 |
+| [01-self-media-mindset.md](chapters/01-self-media-mindset.md) | 自媒体发心、直播、读信、陪伴感、数据焦虑、核心用户 |
 | [02-authenticity-and-exposure.md](chapters/02-authenticity-and-exposure.md) | 人设、表达自信、羞耻心、带货、恶评、情绪控制 |
 | [03-work-and-creative-rhythm.md](chapters/03-work-and-creative-rhythm.md) | 把创作当工作、生活与工作、节奏、以赛代练 |
 | [04-writing-and-ideas.md](chapters/04-writing-and-ideas.md) | 逐字稿、删字、主题、洞察、故事和价值观 |
@@ -98,7 +98,7 @@ Use this to coach creative teams: bring drafts, keep goals clear, let the respon
 | [07-meetings-pitch-and-preinterview.md](chapters/07-meetings-pitch-and-preinterview.md) | 读稿会、创意会、pitch、前采、说服嘉宾/客户 |
 | [08-career-and-professionalism.md](chapters/08-career-and-professionalism.md) | 怀疑自己、困难、学习、跨岗位思考、专业水准 |
 
-## Topic Index
+## 主题索引
 
 - **发心 / 初心 / 自媒体定位** -> 01, 02
 - **直播 / 读信 / 陪伴感** -> 01
@@ -117,13 +117,13 @@ Use this to coach creative teams: bring drafts, keep goals clear, let the respon
 - **pitch / 前采 / 嘉宾 / 客户** -> 07
 - **难而正确 / 解决或接受 / 跨部门学习** -> 08
 
-## Supporting Files
+## 辅助文件
 
-- [patterns.md](patterns.md) - reusable work patterns and operating procedures.
-- [cheatsheet.md](cheatsheet.md) - one-page working checklist.
-- [glossary.md](glossary.md) - key concepts and definitions.
-- [source-notes.md](source-notes.md) - extraction metadata and limits.
+- [patterns.md](patterns.md) - 可复用工作模式。
+- [cheatsheet.md](cheatsheet.md) - 快速检查清单。
+- [glossary.md](glossary.md) - 核心概念词典。
+- [source-notes.md](source-notes.md) - 来源说明和公开发布边界。
 
-## Scope & Limits
+## 边界
 
-This skill is built from one book. Treat it as a practical lens for content and creative work, not as universal doctrine. For legal, medical, financial, or platform-rule questions, verify with current primary sources.
+这个 skill 只覆盖本书提炼出的内容工作方法。遇到法律、医疗、金融、平台规则等实时或高风险问题时，要查一手资料和最新规则。

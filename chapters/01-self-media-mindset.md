@@ -1,64 +1,64 @@
-# 01 Self-Media Mindset
+# 01 自媒体发心与账号心态
 
-## Core Idea
+## 核心意思
 
-Self-media works best when it begins from real expression, interest, sharing, and serving a specific group of people. Growth, metrics, and monetization matter, but they should not become the creator's emotional center.
+自媒体最稳定的起点不是“起号”，而是真实表达、真实兴趣、分享和服务一群具体的人。增长、数据、变现当然重要，但不能成为创作者的情绪中心。
 
-## Frameworks Introduced
+## 关键框架
 
-### 发心 First
+### 发心优先
 
-- **When to use**: Starting an account, changing direction, feeling tired by content work.
-- **How**: Ask what you genuinely want to share, what kind of relationship you want with the audience, and whether the work would still feel livable if growth slowed.
-- **Avoid**: Starting from persona, ranking, "起号", or pure conversion pressure.
+- **什么时候用**：开始做账号、换方向、对内容工作疲惫时。
+- **怎么做**：先问自己真正想分享什么，想和观众建立什么关系，这件事如果增长很慢还愿不愿意做。
+- **要避开**：一上来就做人设、追排名、追起号技巧、追转化。
 
-### Creator Mode vs Distributor Mode
+### 创作者模式 vs 传播者模式
 
-- **Creator mode**: Enjoy the act of making, follow curiosity, serve people, protect attention.
-- **Distributor mode**: Review data, packaging, timing, feedback, format, and monetization.
-- **Rule**: Do not let distributor anxiety enter the first draft.
+- **创作者模式**：享受创作，跟随好奇心，服务别人，保护注意力。
+- **传播者模式**：看数据、看包装、看发布时间、看反馈、看商业结果。
+- **规则**：不要让传播焦虑进入第一稿。
 
-### Core User Before New Traffic
+### 先服务核心用户
 
-When an account has a stable audience, the obvious temptation is to chase new traffic. The book warns that neglecting core users is often where decline begins.
+账号有一批稳定观众后，最容易犯的错是马上追新流量，忽略已经信任你的人。
 
-- Keep serving the people who already trust you.
-- Use offline events, comments, letters, calls, and direct conversations to refresh understanding.
-- Treat core users as high-value relationships, not as "already handled" assets.
+- 持续服务最信任你的人。
+- 通过评论、私信、线下见面、读信、直播，更新对用户的理解。
+- 把核心用户当高价值关系，而不是“已经搞定”的流量。
 
-## Key Concepts
+## 关键概念
 
-- **发心**: The motive that determines the emotional quality of the work.
-- **分享与交友**: Content as connection, not only output.
-- **陪伴感**: Livestreaming and reading letters provide value by listening and responding, not only by solving problems.
-- **数据焦虑**: Short-term metric movement becoming a creator's emotional weather.
-- **从后往前看**: Ask whether a decision still looks right from a five- or ten-year view.
-- **线下见面**: Meeting followers can restore human detail and break creative dryness.
+- **发心**：决定内容气质和创作者耐力的起点。
+- **分享与交友**：内容不是单向输出，也是建立连接。
+- **陪伴感**：直播和读信的价值不只在解决问题，也在倾听和回应。
+- **数据焦虑**：短期数据变成创作者情绪天气。
+- **从后往前看**：从五年、十年后的生活状态反推现在要不要做。
+- **线下见面**：真实接触用户能补回内容枯竭时缺失的人味。
 
-## Mental Models
+## 心智模型
 
-- Use **"long future test"** when considering aggressive growth moves: would this make the creator's life better if repeated for years?
-- Use **"serve the closest circle first"** when planning content for an existing account.
-- Think of livestreaming as **companionship plus spontaneous thinking**, not only performance.
-- Think of audience letters, comments, and offline meetings as **source material with emotional truth**.
+- 用 **长期生活测试** 判断激进增长动作：如果这件事重复几年，会让你更幸福还是更疲惫？
+- 用 **先服务最近的人** 做内容规划：先照顾已经信任你的人，再追陌生流量。
+- 把直播理解成 **陪伴 + 现场思考**，而不是纯表演。
+- 把用户来信、评论和线下交流当成 **有情绪的素材库**。
 
-## Anti-patterns
+## 反模式
 
-- **Persona-first account design**: May produce early clarity but often damages sincerity and stamina.
-- **Metric watching during creation**: Makes the creator anxious before the work exists.
-- **Goal inflation**: Setting bigger numbers because the account has momentum, without asking what the creator actually wants.
-- **Neglecting core users**: Chasing strangers while taking loyal people for granted.
+- **人设先行**：短期清晰，长期容易伤害真诚和耐力。
+- **边创作边看数据**：内容还没成立，创作者先焦虑了。
+- **目标膨胀**：因为账号有势头，就不断加增长目标，不问自己想不想过这种生活。
+- **忽略核心用户**：只追新人，不再认真服务最支持你的人。
 
-## Key Takeaways
+## 可执行结论
 
-1. Start with real expression and useful sharing; growth tactics come later.
-2. Separate creation from distribution so metrics do not poison the draft.
-3. Livestreaming can be valuable because it offers company, attention, and real-time thought.
-4. A creator should not plan only for next month's growth; test choices against a longer life.
-5. Keep meeting, listening to, and serving the people who already care.
+1. 从真实表达和对别人有用开始，增长技巧放后面。
+2. 创作和传播分开，别让数据污染第一稿。
+3. 直播可以提供陪伴、回应和现场思考。
+4. 不要只为下个月的数据规划内容，要用更长的生命视角测试方向。
+5. 持续听、持续见、持续服务已经关心你的人。
 
-## Connects To
+## 关联章节
 
-- **Ch 02**: Authenticity and exposure protect the same motive at the personal level.
-- **Ch 03**: Mindset still needs work rhythm.
-- **Ch 08**: Career doubts often require returning to purpose and then choosing a hard, correct task.
+- **第 02 章**：真诚和暴露，是发心在个人表达层面的保护。
+- **第 03 章**：有发心还不够，还要有工作节奏。
+- **第 08 章**：职业困惑常常需要先回到发心，再选择难而正确的事。
